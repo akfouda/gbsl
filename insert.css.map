@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["C:/Users/akhal/Downloads/gbsl/src/app/routes/insert-shippment/insert.ts"],
-  "sourcesContent": ["\n      nz-date-picker {\n        width: 100% !important;\n      }\n    "],
-  "mappings": ";AACM;AACE,SAAA;;",
-  "names": []
-}

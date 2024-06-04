@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/routes/passport/register/C:/Users/akhal/Downloads/gbsl/src/app/routes/passport/register/register.component.less"],
-  "sourcesContent": ["@import '@delon/theme/index';\n\n:host {\n  display: block;\n  width: 368px;\n  margin: 0 auto;\n\n  ::ng-deep {\n    h3 {\n      margin-bottom: 20px;\n      font-size: 16px;\n    }\n\n    .submit {\n      width: 50%;\n    }\n\n    .login {\n      float: right;\n      line-height: @btn-height-lg;\n    }\n  }\n}\n\n::ng-deep {\n  .register-password-cdk {\n    .success,\n    .warning,\n    .error {\n      transition: color 0.3s;\n    }\n\n    .success {\n      color: @success-color;\n    }\n\n    .warning {\n      color: @warning-color;\n    }\n\n    .error {\n      color: @error-color;\n    }\n\n    .progress-pass > .progress {\n      .ant-progress-bg {\n        background-color: @warning-color;\n      }\n    }\n  }\n}\n"],
-  "mappings": ";AAEA;AACE,WAAA;AACA,SAAA;AACA,UAAA,EAAA;;AAHF,MAKE,UACE;AACE,iBAAA;AACA,aAAA;;AARN,MAKE,UAME,CAAA;AACE,SAAA;;AAZN,MAKE,UAUE,CAAA;AACE,SAAA;AACA,eAAA;;AAKN,UACE,CAAA,sBACE,CAAA;AAFJ,UACE,CAAA,sBAEE,CAAA;AAHJ,UACE,CAAA,sBAGE,CAAA;AACE,cAAA,MAAA;;AALN,UACE,CAAA,sBAOE,CANA;AAOE,SAAA;;AATN,UACE,CAAA,sBAWE,CATA;AAUE,SAAA;;AAbN,UACE,CAAA,sBAeE,CAZA;AAaE,SAAA;;AAjBN,UACE,CAAA,sBAmBE,CAAA,cAAe,EAAA,CAAA,SACb,CAAA;AACE,oBAAA;;",
-  "names": []
-}

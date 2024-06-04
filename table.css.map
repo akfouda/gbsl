@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["C:/Users/akhal/Downloads/gbsl/src/app/shared/component/table.ts"],
-  "sourcesContent": ["\n      th {\n        background-color: #ededed !important;\n      }\n    "],
-  "mappings": ";AACM;AACE,oBAAA;;",
-  "names": []
-}
